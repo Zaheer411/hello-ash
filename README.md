@@ -1,4 +1,4 @@
-# hello-ash
+# hello
 infinite ways to code
 
 this is zah who doesn't even know how to code....
